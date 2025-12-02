@@ -1,4 +1,4 @@
-# House Sale Price Prediction for RealAgents
+# House Sale Price Prediction
 
 ### Predictive Modeling to Optimize Real Estate Listing Prices
 
