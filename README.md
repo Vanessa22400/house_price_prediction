@@ -8,7 +8,7 @@ This project was developed for RealAgents, a real estate company aiming to **opt
 
 This repository contains the complete analysis, documented in the **House_Sales_Prediction.ipynb** Jupyter Notebook.
 
-## 2. Technical Stack (Ferramentas Utilizadas)
+## 2. Technical Stack 
 
 * **Language:** Python
 * **Libraries:** Pandas (for data handling), Scikit-learn (for machine learning models), Matplotlib (for data visualization).
