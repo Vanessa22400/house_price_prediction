@@ -1,6 +1,7 @@
 # House Price Prediction: Machine Learning Project
 
-This project applies machine learning techniques to predict residential property sale prices.  
+This project applies machine learning techniques to predict residential property sale prices using structured (tabular) data.
+The project was built as an end-to-end machine learning workflow, following common practices used in real-world data science projects.
 It follows a clear, end-to-end structure: data cleaning, exploratory analysis, baseline modeling, and the development of a more robust model using tree-based methods.
 
 The goal is to build a practical, interpretable solution while demonstrating essential skills for tabular data projects.
